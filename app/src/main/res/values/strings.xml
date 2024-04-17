@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyFirstApp</string>
+    <string name="welcome_message">This Message has been translated into other languages!</string>
+</resources>
